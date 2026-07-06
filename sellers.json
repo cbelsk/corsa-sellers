@@ -1,0 +1,12 @@
+{
+  "contact_email": "test@corsa-digital.com",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "PLACEHOLDER_001",
+      "name": "Test Seller",
+      "domain": "example.com",
+      "seller_type": "INTERMEDIARY"
+    }
+  ]
+}
