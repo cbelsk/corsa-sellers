@@ -8,5 +8,17 @@
       "domain": "missionmedia.ai",
       "seller_type": "PUBLISHER"
     }
+    {
+      "seller_id": "CD002",
+      "name": "Audiomob",
+      "domain": "audiomob.com",
+      "seller_type": "PUBLISHER"
+    }
+     {
+      "seller_id": "CD003",
+      "name": "Entravision",
+      "domain": "entravision.com",
+      "seller_type": "BOTH"
+    }
   ]
 }
