@@ -20,5 +20,11 @@
       "domain": "entravision.com",
       "seller_type": "BOTH"
     }
+    {
+      "seller_id": "CD004",
+      "name": "Odeeo",
+      "domain": "odeeo.io",
+      "seller_type": "PUBLISHER"
+    }
   ]
 }
