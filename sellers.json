@@ -1,12 +1,12 @@
 {
-  "contact_email": "test@corsa-digital.com",
+  "contact_email": "chris@corsa-digital.com",
   "version": "1.0",
   "sellers": [
     {
-      "seller_id": "PLACEHOLDER_001",
-      "name": "Test Seller",
-      "domain": "example.com",
-      "seller_type": "INTERMEDIARY"
+      "seller_id": "CD001",
+      "name": "Mission Media",
+      "domain": "missionmedia.ai",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
