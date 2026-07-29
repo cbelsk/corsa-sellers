@@ -7,25 +7,25 @@
       "name": "Mission Media",
       "domain": "missionmedia.ai",
       "seller_type": "PUBLISHER"
-    }
+    },
     {
       "seller_id": "CD002",
       "name": "Audiomob",
       "domain": "audiomob.com",
       "seller_type": "PUBLISHER"
-    }
+    },
      {
       "seller_id": "CD003",
       "name": "Entravision",
       "domain": "entravision.com",
       "seller_type": "BOTH"
-    }
+    },
     {
       "seller_id": "CD004",
       "name": "Odeeo",
       "domain": "odeeo.io",
       "seller_type": "PUBLISHER"
-    }
+    },
     {
       "seller_id": "CD005",
       "name": "TuneIn",
